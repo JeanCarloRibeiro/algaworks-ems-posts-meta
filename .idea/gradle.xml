@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices/post-service" />
+        <option name="gradleHome" value="C:/Program Files/Java/gradle-6.8.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices/post-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservices/text-processor-service" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservices/text-processor-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
